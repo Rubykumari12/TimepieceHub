@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52f4b2fb.css",
+    "main.js": "/static/js/main.17abbc93.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/lc.jpg": "/static/media/lc.97a5a3dab4555a22d8b7.jpg",
+    "static/media/about1.jpg": "/static/media/about1.82608777656420cc855b.jpg",
+    "static/media/b.jpg": "/static/media/b.548a5537b4c11971d96a.jpg",
+    "static/media/privacy-policy.jpg": "/static/media/privacy-policy.adb549255009557ebf8c.jpg",
+    "static/media/—Pngtree—minimal clock background banner_1102261.jpg": "/static/media/—Pngtree—minimal clock background banner_1102261.bdffc0f9617d7ec55e6f.jpg",
+    "static/media/d.jpg": "/static/media/d.12ffc06a7455271df77e.jpg",
+    "index.html": "/index.html",
+    "main.52f4b2fb.css.map": "/static/css/main.52f4b2fb.css.map",
+    "main.17abbc93.js.map": "/static/js/main.17abbc93.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52f4b2fb.css",
+    "static/js/main.17abbc93.js"
+  ]
+}
